@@ -1,0 +1,17 @@
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\bin\Debug\BanhoTosaApp.exe.config
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\bin\Debug\BanhoTosaApp.exe
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\bin\Debug\BanhoTosaApp.pdb
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.PrincipalForm.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.Properties.Resources.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.csproj.GenerateResource.cache
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.exe
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.pdb
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.ClienteForm.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.Resources.TipoPetForm.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.PetForm.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.PetDataForm.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.BanhoTosaForm.resources
+C:\Users\joaog\source\repos\BanhoTosaApp\BanhoTosaApp\obj\Debug\BanhoTosaApp.BanhoTosaDataForm.resources
