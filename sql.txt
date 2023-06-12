@@ -1,0 +1,39 @@
+CREATE TABLE Endereco (
+    Id int IDENTITY(1,1) PRIMARY KEY,
+    Cidade varchar(255),
+    Rua varchar(255),
+    Numero int,
+    Bairro varchar(255),
+    PessoaId int
+);
+
+CREATE TABLE Pessoa (
+    Id int IDENTITY(1,1) PRIMARY KEY,
+    Nome varchar(255),
+    CPF varchar(255),
+    Telefone varchar(255)
+);
+
+CREATE TABLE TipoPet (
+    Id int IDENTITY(1,1) PRIMARY KEY,
+    Nome varchar(255)
+);
+
+CREATE TABLE Pet (
+    Id int IDENTITY(1,1) PRIMARY KEY,
+    Nome varchar(255),
+    Raca varchar(255),
+    Porte varchar(255),
+    TipoPetId int,
+    DonoId int,
+    DataNascimento datetime
+);
+
+CREATE TABLE BanhoTosa (
+    Id int IDENTITY(1,1) PRIMARY KEY,
+    PetId int,
+    Data datetime,
+    Tosar bit,
+    Observacao varchar(255),
+    Valor float
+);
